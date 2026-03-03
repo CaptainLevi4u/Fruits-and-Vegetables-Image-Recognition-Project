@@ -60,6 +60,7 @@ Use Transfer Learning (VGG16 / ResNet50 / EfficientNet)
 Add Learning Rate Scheduler
 
 ⚠️ Challenges & Solutions
+
 1️⃣ Overfitting
 
 Applied Dropout
