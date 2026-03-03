@@ -69,4 +69,6 @@ Add Learning Rate Scheduler
 <img width="891" height="93" alt="Screenshot 2026-03-03 183136" src="https://github.com/user-attachments/assets/86e22506-c9e2-4338-958c-2bc27f7d066c" />
 <img width="569" height="455" alt="Model loss" src="https://github.com/user-attachments/assets/9c8aa9da-c0bf-4c8d-91ff-677ba0167a3a" />
 <img width="569" height="455" alt="Model Accuracy" src="https://github.com/user-attachments/assets/35810b29-4097-4423-82a0-39e4c8abf9e4" />
+<img width="1919" height="861" alt="Screenshot 2026-02-27 202919" src="https://github.com/user-attachments/assets/f6819def-e9ea-4d91-873e-8d701700419c" />
+<img width="1919" height="886" alt="Screenshot 2026-02-27 202856" src="https://github.com/user-attachments/assets/6549e801-4329-45f0-9967-617e3aeecfd9" />
 
