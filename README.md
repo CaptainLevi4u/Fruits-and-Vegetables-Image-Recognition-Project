@@ -59,7 +59,30 @@ Apply Data Augmentation
 Use Transfer Learning (VGG16 / ResNet50 / EfficientNet)
 Add Learning Rate Scheduler
 
+⚠️ Challenges & Solutions
+1️⃣ Overfitting
+
+Applied Dropout
+
+Added Batch Normalization
+
+Used EarlyStopping
+
+2️⃣ Training Stability
+
+Integrated Batch Normalization in each convolution block
+
+3️⃣ Deployment Optimization
+
+Saved model as model.h5
+
+Optimized inference pipeline for single image prediction
+
+Resized input dynamically inside Streamlit app
+
+
 📊 Results
+
 ✔ Strong accuracy on the test dataset
 ✔ Good generalization between training & validation
 ✔ Stable convergence with minimal overfitting
